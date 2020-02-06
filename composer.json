@@ -1,5 +1,5 @@
 {
-    "name": "narwy/laravel-mongodb-passport",
+    "name": "luqta/laravel-mongodb-passport",
     "description": "[2019] [Laravel v6] - A package to allow laravel/passport use with jenssegers/laravel-mongodb",
     "homepage": "https://github.com/narwy/laravel-mongodb-passport",
     "license": "MIT",
@@ -25,6 +25,11 @@
         }
     },
     "authors": [
+		{
+            "name": "Abdullah Abdelqader",
+            "email": "3bdullahg97@gmail.com",
+            "role": "Developer"
+        },
 		{
             "name": "Nick Anthony",
             "email": "nick@t3am.io",
