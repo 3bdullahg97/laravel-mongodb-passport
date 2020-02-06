@@ -1,7 +1,7 @@
 {
     "name": "luqta/laravel-mongodb-passport",
     "description": "[2019] [Laravel v6] - A package to allow laravel/passport use with jenssegers/laravel-mongodb",
-    "homepage": "https://github.com/narwy/laravel-mongodb-passport",
+    "homepage": "https://github.com/3bdullahg97/laravel-mongodb-passport",
     "license": "MIT",
     "keywords": [
         "laravel",
